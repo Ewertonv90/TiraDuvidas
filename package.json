@@ -1,0 +1,26 @@
+{
+  "name": "tiraduvidas",
+  "version": "1.0.0",
+  "description": "uma plataforma de perguntas e respostas estilo yahoo respostas e Stack Overfloe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ewertonv90/TiraDuvidas.git"
+  },
+  "author": "Ewerton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ewertonv90/TiraDuvidas/issues"
+  },
+  "homepage": "https://github.com/Ewertonv90/TiraDuvidas#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
